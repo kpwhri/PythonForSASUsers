@@ -14,9 +14,9 @@ The goal for this content is to permit business users familiar with Base SAS pro
 * [Chapter 3-Data Structures](03-Data_Structures.ipynb)
 * [Chapter 4-Data Types and Formatting](04-Data_Types_and_Formatting.ipynb)
 * [Chapter 5-Polars (part 1)](05-Polars.ipynb)
+* [Chapter 6-Polars (part 2)](06-Polars.ipynb)
 
 ### TODO: Migrate from Pandas
-* [Chapter 6-Polars (part2)](06-Polars.ipynb)
 * [Chapter 7-Date, Time, and Datetime Objects](07-Date_and_Time.ipynb)
 * [Chapter 8-Group by](08-Groupby.ipynb)
 * [Chapter 9-Time Series and Date Handling](09-Time_Series_and_Date_Handling.ipynb)
