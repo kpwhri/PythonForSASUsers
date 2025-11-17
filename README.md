@@ -15,11 +15,11 @@ The goal for this content is to permit business users familiar with Base SAS pro
 * [Chapter 4-Data Types and Formatting](04-Data_Types_and_Formatting.ipynb)
 * [Chapter 5-Polars (part 1)](05-Polars.ipynb)
 * [Chapter 6-Polars (part 2)](06-Polars.ipynb)
+* [Chapter 7-Date, Time, and Datetime Objects](07-Date_and_Time.ipynb)
 
 ### TODO: Migrate from Pandas
-* [Chapter 7-Date, Time, and Datetime Objects](07-Date_and_Time.ipynb)
-* [Chapter 8-Group by](08-Groupby.ipynb)
-* [Chapter 9-Time Series and Date Handling](09-Time_Series_and_Date_Handling.ipynb)
+* [Chapter 8-Time Series and Date Handling](08-Time_Series_and_Date_Handling.ipynb)
+* [Chapter 9-Group by](09-Groupby.ipynb)
 * [Chapter 10-Polars Readers](10-Polars_Readers.ipynb)
 * [Chapter 11-Additional Data Wrangling](11-Additional_Data_Wrangling.ipynb)
 
