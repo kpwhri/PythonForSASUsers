@@ -20,9 +20,9 @@ The examples provided map SAS programming constructs and coding patterns into th
 * [Chapter 8-Time Series and Date Handling](08-Time_Series_and_Date_Handling.ipynb)
 * [Chapter 9-Group by](09-Groupby.ipynb)
   * TODO: add column/row aggregation
+* [Chapter 10-`polars` Readers](10-Polars_Readers.ipynb)
 
 ### TODO: Migrate from Pandas
-* [Chapter 10-`polars` Readers](10-Polars_Readers.ipynb)
 * [Chapter 11-Additional Data Wrangling](11-Additional_Data_Wrangling.ipynb)
 
 ## Usage
