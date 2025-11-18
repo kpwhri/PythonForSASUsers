@@ -14,14 +14,15 @@ The examples provided map SAS programming constructs and coding patterns into th
 * [Chapter 2-Introduction](02-Introduction.ipynb)
 * [Chapter 3-Data Structures](03-Data_Structures.ipynb)
 * [Chapter 4-Data Types and Formatting](04-Data_Types_and_Formatting.ipynb)
-* [Chapter 5-Polars (part 1)](05-Polars.ipynb)
-* [Chapter 6-Polars (part 2)](06-Polars.ipynb)
+* [Chapter 5-`polars` (part 1)](05-Polars.ipynb)
+* [Chapter 6-`polars` (part 2)](06-Polars.ipynb)
 * [Chapter 7-Date, Time, and Datetime Objects](07-Date_and_Time.ipynb)
 * [Chapter 8-Time Series and Date Handling](08-Time_Series_and_Date_Handling.ipynb)
+* [Chapter 9-Group by](09-Groupby.ipynb)
+  * TODO: add column/row aggregation
 
 ### TODO: Migrate from Pandas
-* [Chapter 9-Group by](09-Groupby.ipynb)
-* [Chapter 10-Polars Readers](10-Polars_Readers.ipynb)
+* [Chapter 10-`polars` Readers](10-Polars_Readers.ipynb)
 * [Chapter 11-Additional Data Wrangling](11-Additional_Data_Wrangling.ipynb)
 
 ## Usage
